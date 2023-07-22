@@ -1,0 +1,6 @@
+[book]
+authors = ["Howard Hu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Design Patterns in Go"
